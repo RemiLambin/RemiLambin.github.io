@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is an about page.
+My name is Rémi Lambin, I'm currently student at International Master of Data Science at University of Lille
