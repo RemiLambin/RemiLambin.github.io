@@ -1,6 +1,7 @@
 ---
 title: About
 author: Tao He
+permalink: /about/
 layout: page
 ---
 
